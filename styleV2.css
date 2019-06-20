@@ -740,7 +740,8 @@ input:-webkit-autofill:focus {
     box-shadow: 0 0 15px -5px rgba(0, 0, 0, 0.1);
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
-    transition: 0.3s;
+    transition: 0.3s; 
+  
 }
 
 .price-box:hover {
