@@ -302,7 +302,7 @@ input:-webkit-autofill:focus {
     top: 0;
     width: 100%;
     z-index: 9999;
-    padding: 20px 140px 15px 0;
+    padding: 30px 150px 20px 0;
     background: transparent;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -495,7 +495,7 @@ input:-webkit-autofill:focus {
 }
 
 .feature-area .page-title .title {
-    color: #434345;
+    color: #ffffff;
 }
 
 .feature-area .mobile-image {
@@ -997,7 +997,7 @@ input:-webkit-autofill:focus {
 }
 
 .footer-bottom {
-    padding: 120px 0;
+    padding: 40px 0;
     background-color: #FBE473;
     border-top: 1px solid #F08700;
 }
