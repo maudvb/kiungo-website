@@ -427,7 +427,6 @@ input:-webkit-autofill:focus {
     background: url('first.jpg') no-repeat scroll center bottom / cover;
     padding-top: 26vh;
     color: #ffffff;
-    margin-bottom: 100px;
 }
 
 .home-area .mobile-image {
@@ -443,12 +442,11 @@ input:-webkit-autofill:focus {
     background-repeat: no-repeat;
     background-position: right center;
     background-size: auto 100%;
-    margin-top: 90px;
     margin-bottom: 220px;
 }
 
 .progress-area .mobile-image {
-    margin-top: -90px;
+    margin-top: 90px;
     margin-bottom: -153px;
 }
 
