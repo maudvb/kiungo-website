@@ -794,13 +794,13 @@ input:-webkit-autofill:focus {
 
 
 .price-box .price-header .price-icon {
-    font-size: 60px;
+    font-size: 70px;
     margin-bottom: 10px;
 }
 
 .price-box .price-header h4 {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 60px;
     letter-spacing: 3px;
 }
 
