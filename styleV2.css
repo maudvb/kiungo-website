@@ -93,8 +93,21 @@ h3 {
     font-size: 50px;
 }
 
+h4 {
+    font-size: 30px;
+}
+
 P { 
 		font-size: 20px;
+}
+
+
+P2 { 
+		font-size: 28px;
+}
+
+P3 { 
+		font-size: 26px;
 }
 
 html,
