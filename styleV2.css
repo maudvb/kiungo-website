@@ -82,15 +82,19 @@ h6 {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 90px;
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 70px;
 }
 
 h3 {
-    font-size: 32px;
+    font-size: 50px;
+}
+
+P { 
+		font-size: 20px;
 }
 
 html,
@@ -442,7 +446,7 @@ input:-webkit-autofill:focus {
     background-repeat: no-repeat;
     background-position: right center;
     background-size: auto 100%;
-    margin-bottom: 220px;
+    margin-bottom: 300px;
 }
 
 .progress-area .mobile-image {
